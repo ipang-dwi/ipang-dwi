@@ -1,4 +1,4 @@
-### Hi there 👋
+### Learn what you see, teach what you learn, love everything you do
 
 <!--
 **ipang-dwi/ipang-dwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

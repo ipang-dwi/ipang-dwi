@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/ipang-dwi/ipang-dwi/master/1519643754_sleeping-panda-with-tongue.gif "Swam Swam FIRSTPLATO - ipang-dwi")
 ### Learn what you see, teach what you learn, love everything you do.. :punch::smiley_cat:
-Alhamdulillah and thanks to :octocat: :satisfied: for this awesome feature.. Let's play :video_game:, ups, learn and code :computer: I mean, with linux :penguin: and me :panda_face: :sunglasses:..  
+Alhamdulillah and thanks to :octocat: for this awesome feature :satisfied:.. Let's play :video_game:, ups, learn and code :computer: I mean, with linux :penguin: and me :panda_face: :sunglasses:..  
 <!--
 **ipang-dwi/ipang-dwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

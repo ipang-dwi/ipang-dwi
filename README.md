@@ -1,5 +1,5 @@
 [![@ipangdwi's Holopin board](https://holopin.me/ipangdwi)](https://holopin.io/@ipangdwi)
-<img src="https://raw.githubusercontent.com/ipang-dwi/ipang-dwi/master/1519643754_sleeping-panda-with-tongue.gif" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/ipang-dwi/ipang-dwi/master/1519643754_sleeping-panda-with-tongue.gif" alt="drawing" width="400"/>
 ![alt text](https://raw.githubusercontent.com/ipang-dwi/ipang-dwi/master/1519643754_sleeping-panda-with-tongue.gif "Swam Swam FIRSTPLATO - ipang-dwi")
 [![Ipang's github stats](https://github-readme-stats.vercel.app/api?username=ipang-dwi&count_private=true&show_icons=true&theme=radical)](https://github.com/ipang-dwi)
 ### Learn what you see, teach what you learn, love everything you do.. :punch::smiley_cat:

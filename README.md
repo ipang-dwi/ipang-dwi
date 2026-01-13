@@ -5,7 +5,8 @@
 Alhamdulillah and thanks to :octocat: for this awesome feature :satisfied:.. Let's play :video_game:, ups, learn and code :computer: I mean, with linux :penguin: and me :panda_face: :sunglasses:..  
 
 <img src="https://valid.x86.fr/cache/banner/i94xe7-6.png"></img><br>
-<img src="https://valid.x86.fr/cache/banner/xwaf4d-6.png"></img>
+<img src="https://valid.x86.fr/cache/banner/xwaf4d-6.png"></img><br>
+<img src="https://valid.x86.fr/cache/banner/e1fs7q-6.png"></img>
 <!--
 **ipang-dwi/ipang-dwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
